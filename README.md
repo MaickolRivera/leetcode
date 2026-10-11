@@ -1,5 +1,5 @@
 # LeetCode
-[![LeetCode stats](https://leetcard.jacoblin.cool/Maickol_Rivera?theme=dark&font=Karla&ext=heatmap)](https://leetcode.com/u/YOUR_USERNAME/)
+[![LeetCode stats](https://leetcard.jacoblin.cool/Maickol_Rivera?theme=dark&font=Karla&ext=heatmap)](https://leetcode.com/u/Maickol_Rivera/)
 
 ## What's in this repository
 
